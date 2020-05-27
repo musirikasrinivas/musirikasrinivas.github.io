@@ -18,7 +18,7 @@ I have completed 41 courses and 8 tracks in the [DataCamp](https://www.datacamp.
  Design and developed python code to download all videos, pdf, data files and markdown by one click rather than using hundreds of clicks from DataCamp including dynamic content using selenium.
  
  ## [Data Visualization (Bar Chart Racing)](https://github.com/musirikasrinivas/Data-Visualization/blob/master/batting.ipynb):
-Design and developed data visualization for ICC ODI /Test/ T20 performance on batting, bowling and fielding.\
+Design and developed data visualization for ICC ODI /Test/ T20 performance on batting, bowling and fielding.<br\>
 Here is the example of [T20 Runs](https://preview.flourish.studio/1625120/VRcyJSXkDuSHGZ1m0mJbr9bKN1Jk48XwdS6IMxQaCLMgPirAGDh7ilOCPg_Qb726/)
 
 ## [Data Science in Python - Notebooks]( https://github.com/musirikasrinivas/Data_Camp_Plus-DSP):
