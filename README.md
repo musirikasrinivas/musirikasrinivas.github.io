@@ -28,7 +28,7 @@ Created 11 notebooks to help data science enthusiast covering Python Foundations
 ***
 
 # Resume
-![image](https://user-images.githubusercontent.com/43592400/82485471-1b133800-9af9-11ea-977a-286cf7a5c661.jpg)
+![image](https://user-images.githubusercontent.com/43592400/83018132-64f0a680-a042-11ea-95fa-15862f5d5ca7.png)
 <br>
 <a href="https://drive.google.com/file/d/1QamyxdRW_VhNmrFiOK1vyQHe4upjKkiy/view?usp=sharing" download="sai srinivas reddy">Download</a>
 
