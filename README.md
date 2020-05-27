@@ -12,12 +12,12 @@ I have completed 41 courses and 8 tracks in the [DataCamp](https://www.datacamp.
 
 ***
 
- # Projects
+# Projects
  
- ## [Web Scraping DataCamp Website](https://github.com/musirikasrinivas/Web-Scraping-DC):
+## [Web Scraping DataCamp Website](https://github.com/musirikasrinivas/Web-Scraping-DC):
  Design and developed python code to download all videos, pdf, data files and markdown by one click rather than using hundreds of clicks from DataCamp including dynamic content using selenium.
  
- ## [Data Visualization (Bar Chart Racing)](https://github.com/musirikasrinivas/Data-Visualization/blob/master/batting.ipynb):
+## [Data Visualization (Bar Chart Racing)](https://github.com/musirikasrinivas/Data-Visualization/blob/master/batting.ipynb):
 Design and developed data visualization for ICC ODI /Test/ T20 performance on batting, bowling and fielding.<br\>
 Here is the example of [T20 Runs](https://preview.flourish.studio/1625120/VRcyJSXkDuSHGZ1m0mJbr9bKN1Jk48XwdS6IMxQaCLMgPirAGDh7ilOCPg_Qb726/)
 
