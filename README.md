@@ -14,13 +14,12 @@ I have completed 41 courses and 8 tracks in the [DataCamp](https://www.datacamp.
  ## [Data Visualization (Bar Chart Racing)](https://github.com/musirikasrinivas/Data-Visualization/blob/master/batting.ipynb):
 Design and developed data visualization for ICC ODI /Test/ T20 performance on batting, bowling and fielding.
 Here is the example of [T20 Runs](https://preview.flourish.studio/1625120/VRcyJSXkDuSHGZ1m0mJbr9bKN1Jk48XwdS6IMxQaCLMgPirAGDh7ilOCPg_Qb726/)
-## [Data Science in Python - Notebooks]( https://github.com/musirikasrinivas/Data_Camp_Plus-DSP
-):
+## [Data Science in Python - Notebooks]( https://github.com/musirikasrinivas/Data_Camp_Plus-DSP):
 Created 11 notebooks to help data science enthusiast covering Python Foundations, Pandas, Matplotlib, NumPy etc., 
 ***
 # Resume
 ![image](https://user-images.githubusercontent.com/43592400/82485471-1b133800-9af9-11ea-977a-286cf7a5c661.jpg)
 ***
 # Contact
-<p> Phone number: <a href="tel:9666651610">9666651610</a></p>
+<p> Phone number: <a href="tel:96666-51610">9666651610</a></p>
 <p> Mail: <a href="mailto:musirikasrinivas@gmail.com">musirikasrinivas@gmail.com</a></p>
