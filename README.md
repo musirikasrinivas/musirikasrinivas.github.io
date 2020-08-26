@@ -5,9 +5,9 @@
 ***
 
 # Online Courses - [My DataCamp Profile](https://www.datacamp.com/profile/musirikasrinivas)
-I have completed `` 52 `` courses and `` 8 `` tracks in the [DataCamp](https://www.datacamp.com) which is one of the most comprehensive online learning resource for data science and analytics. In this courses, I learned from the python basics to building complex neural networks using deep learning libraries keras and pytorch. I have completed the following tracks in DataCamp.
+I have completed `` 54 `` courses and `` 10 `` tracks in the [DataCamp](https://www.datacamp.com) which is one of the most comprehensive online learning resource for data science and analytics. In this courses, I learned from the python basics to building complex neural networks using deep learning libraries keras and pytorch. I have completed the following tracks in DataCamp.
  1. [Data Scientist with Python](https://www.datacamp.com/statement-of-accomplishment/track/8f00b280fb3e58e3c3f5767540e856c77fe8d561) 
- 2. [Machine Learning with Python](https://www.datacamp.com/statement-of-accomplishment/track/4fdbe48dd7275d30936f650954a1518f6a4c10da)
+ 2. [Machine Learning Scientist with Python](https://www.datacamp.com/statement-of-accomplishment/track/a168be35c42955d39bc5ff6da1289a9bef0f57a2)
  3. [Python Programmer](https://www.datacamp.com/statement-of-accomplishment/track/97a2fc0739155879707348c8e7d716b10bb004f9)
 <br>etc
 
