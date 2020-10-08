@@ -5,6 +5,8 @@
 ***
 
 # Online Courses - [My DataCamp Profile](https://www.datacamp.com/profile/musirikasrinivas)
+![image](https://user-images.githubusercontent.com/43592400/95502107-f1cf4780-09c6-11eb-9acd-d4791bf1e492.png)
+<br>
 I have completed `` 55 `` courses and `` 10 `` tracks in the [DataCamp](https://www.datacamp.com) which is one of the most comprehensive online learning resource for data science and analytics. In this courses, I learned from the python basics to building complex neural networks using deep learning libraries keras and pytorch. I have completed the following tracks in DataCamp.
  1. [Data Scientist with Python](https://www.datacamp.com/statement-of-accomplishment/track/8f00b280fb3e58e3c3f5767540e856c77fe8d561) 
  2. [Machine Learning Scientist with Python](https://www.datacamp.com/statement-of-accomplishment/track/a168be35c42955d39bc5ff6da1289a9bef0f57a2)
@@ -31,7 +33,7 @@ Created 11 notebooks to help data science enthusiast covering Python Foundations
 # Resume
 ![image](https://user-images.githubusercontent.com/43592400/90400875-c876f700-e0ba-11ea-9192-4dd3b1abfea3.png)
 <br>
-<a href="https://drive.google.com/file/d/1Vy0QEhH7f220mCMX5BfHMxHhIMCc0kov/view?usp=sharing" download="sai srinivas reddy">Download</a>
+<a href=https://drive.google.com/file/d/15xCI65V7h_L1Qp0EkSr5zuKrS15OrLZw/view?usp=sharing">Download</a>
 
 ***
 
